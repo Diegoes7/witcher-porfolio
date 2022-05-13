@@ -2,14 +2,15 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "dev": "parcel index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Diego ElRey",
   "license": "ISC",
   "dependencies": {
-    "@parcel/transformer-sass": "^2.4.1",
+    "@parcel/transformer-sass": "^2.5.0",
     "frontend": "^2.0.0-alpha.4",
     "img": "^3.0.3",
     "parcel-bundler": "^1.12.5",
@@ -17,8 +18,8 @@
     "regenerator-runtime": "^0.13.9"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.9",
-    "@babel/plugin-transform-runtime": "^7.17.0",
+    "@babel/core": "^7.17.10",
+    "@babel/plugin-transform-runtime": "^7.17.10",
     "sass": "^1.51.0"
   },
   "browserslist": "last 4 version"

@@ -1,0 +1,48 @@
+.certificates {
+    padding-bottom: 2rem;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right, rgba($primary-clr, 0.9), rgba($primary-clr, 0.3)),
+        url("../img/witcher-quests.jpeg") center top;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    &__achive {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.achive_title {
+    padding: 1.2rem 40rem;
+    margin-top: 5.5rem;
+    background-color: rgba(225, 41, 93, 0.771);
+    border-radius: 1rem;
+}
+
+.section_achive {
+    margin: 0.5rem;
+    padding: 2rem;
+
+    h2 {
+        padding: 20px 0;
+    }
+
+    img {
+        width: 25rem;
+        height: auto;
+    }
+
+    @media only screen and (max-width: 500px) {
+        img {
+            height: 10rem;
+            height: auto;
+        }
+    }
+}

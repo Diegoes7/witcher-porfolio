@@ -1,0 +1,616 @@
+@import "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,400&family=Merriweather:ital@1&family=Praise&display=swap";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+  height: 100vh;
+  text-align: center;
+  background-color: #0000;
+  background-image: linear-gradient(to right, #2f4353e6, #2f43534d), url("witcher-v3.03ca15bc.jpg");
+  background-position: 0 0, top;
+  background-repeat: repeat, repeat;
+  background-size: cover;
+  background-attachment: scroll, scroll;
+  background-origin: padding-box, padding-box;
+  background-clip: border-box, border-box;
+  align-items: center;
+  padding-top: 60vh;
+  overflow: hidden;
+}
+
+.home__name {
+  border-bottom: 2px solid #fff;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  font-size: 5rem;
+}
+
+.home__name:hover {
+  color: #2fff7f;
+  transition: all .5s ease-in-out;
+  transform: scale(1.2);
+}
+
+.home__name--last {
+  color: #2fff7f;
+  font-weight: 700;
+}
+
+@media only screen and (max-width: 470px), screen and (min-height: 600px) {
+  .home {
+    padding-top: 50vh;
+  }
+}
+
+@media only screen and (max-width: 470px) {
+  .home {
+    padding-top: 30vh;
+  }
+}
+
+.social-icons {
+  height: 23vh;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: .7rem;
+  padding: 0 10px;
+  display: flex;
+}
+
+.social-icons a:hover {
+  color: #2fff7f;
+  transition: all .5s ease-in-out;
+  transform: scale(1.2);
+}
+
+@media only screen and (max-width: 470px), screen and (max-height: 600px) {
+  .social-icons {
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 12px;
+  }
+}
+
+@media only screen and (max-width: 470px) {
+  .social-icons {
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 12px;
+  }
+}
+
+.footer {
+  padding: 25px 7px;
+}
+
+.menu-btn {
+  z-index: 1;
+  height: 20px;
+  width: 28px;
+  cursor: pointer;
+  transition: all .5s ease-in-out;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.menu-btn__burger {
+  width: 28px;
+  height: 3px;
+  background: #fff;
+  transition: all .5s ease-in-out;
+  position: absolute;
+  top: .5rem;
+  right: 0;
+}
+
+.menu-btn__burger:before {
+  content: "";
+  width: 28px;
+  height: 3px;
+  background: #fff;
+  transition: all .5s ease-in-out;
+  position: absolute;
+  top: -8px;
+}
+
+.menu-btn__burger:after {
+  content: "";
+  width: 20px;
+  height: 3px;
+  background: #fff;
+  transition: all .5s ease-in-out;
+  position: absolute;
+  top: 8px;
+}
+
+.menu-btn__burger.open {
+  background: none;
+  transform: rotate(720deg);
+}
+
+.menu-btn__burger.open:before {
+  transform: rotate(45deg)translate(5px, 8px);
+}
+
+.menu-btn__burger.open:after {
+  width: 28px;
+  transform: rotate(-45deg)translate(3px, -7px);
+}
+
+.nav {
+  width: 100vw;
+  opacity: .97;
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav.open {
+  visibility: visible;
+}
+
+.nav .menu-nav {
+  height: 100vh;
+  background: #2f4353;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  padding-right: 1rem;
+  list-style-type: none;
+  transition: all .5s ease-in-out;
+  display: flex;
+  overflow: hidden;
+  transform: translateY(-100%);
+}
+
+.nav .menu-nav.open {
+  transform: translateY(0);
+}
+
+.nav .menu-nav__item {
+  transition: all .5s ease-in-out;
+  transform: translateX(100vw);
+}
+
+.nav .menu-nav__item.open {
+  transform: translateX(0);
+}
+
+.nav .menu-nav__item.active > a {
+  color: #2fff7f;
+}
+
+.nav .menu-nav__link {
+  text-transform: uppercase;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 1.1rem .3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  transition: all .5s ease-in-out;
+  display: inline-block;
+}
+
+.nav .menu-nav__link:hover {
+  color: #2fff7f;
+  background-color: #fcf5f587;
+  font-weight: 700;
+}
+
+.menu-nav__item:nth-child(1) {
+  transition-delay: .25s;
+}
+
+.menu-nav__item:nth-child(2) {
+  transition-delay: .35s;
+}
+
+.menu-nav__item:nth-child(3) {
+  transition-delay: .45s;
+}
+
+.menu-nav__item:nth-child(4) {
+  transition-delay: .55s;
+}
+
+.about {
+  padding-bottom: 2rem;
+}
+
+.about__bio-image {
+  height: 70vh;
+  width: 100%;
+  background-color: #0000;
+  background-image: linear-gradient(to right, #2f4353e6, #2f43534d), url("witcher-backgraound.278cca50.jpg");
+  background-position: 0 0, top;
+  background-repeat: repeat, repeat;
+  background-size: cover;
+  background-attachment: scroll, scroll;
+  background-origin: padding-box, padding-box;
+  background-clip: border-box, border-box;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  display: flex;
+}
+
+.about__bio-image p {
+  margin-block-end: 2rem;
+}
+
+@media only screen and (max-width: 660px) {
+  .about__bio-image {
+    height: 50vh;
+  }
+}
+
+.about__bio {
+  width: 90%;
+  text-align: center;
+}
+
+.about .jobs {
+  width: 60vw;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin: 2rem auto 0;
+  display: grid;
+}
+
+.about .jobs__job {
+  background: #415d74;
+  border-bottom: 5px solid #2fff7f;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.about .jobs__job h2, .about .jobs__job h3 {
+  margin: .5rem 0;
+}
+
+.about .jobs__job h6 {
+  margin: .3rem 0;
+}
+
+.about .social-icons {
+  flex-direction: column;
+  display: flex;
+}
+
+.about footer {
+  transform: rotate(90deg)translate(-3rem, -5rem);
+}
+
+.text-secondary {
+  margin: .4rem;
+}
+
+.projects {
+  padding-bottom: 2rem;
+}
+
+.projects__bio-image {
+  height: 30vh;
+  width: 100%;
+  background-color: #0000;
+  background-image: linear-gradient(to right, #2f4353e6, #2f43534d), url("witcher-wolf.f865f34c.jpg");
+  background-position: 0 0, center;
+  background-repeat: repeat, repeat;
+  background-size: cover;
+  background-attachment: scroll, scroll;
+  background-origin: padding-box, padding-box;
+  background-clip: border-box, border-box;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  display: flex;
+}
+
+.projects__bio-image .text-secondary {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+
+.projects__items {
+  width: 60vw;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin: 2rem auto 0;
+  display: grid;
+}
+
+.projects__item {
+  cursor: pointer;
+  border-bottom: 5px solid #2fff7f;
+  border-radius: 12px;
+  padding: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.projects__item img {
+  width: 100%;
+}
+
+.projects__item:after {
+  content: "";
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  background: #2fff7f;
+  transition: all .5s ease-in-out;
+  position: absolute;
+  top: 100%;
+  left: 0;
+}
+
+.projects__item:hover:after {
+  opacity: .9;
+  top: 0;
+}
+
+.projects__item:hover .projects__btn {
+  opacity: 1;
+}
+
+.projects__btns {
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  grid-template-columns: repeat 2, 1fr;
+  text-align: center;
+  align-items: center;
+  display: grid;
+  position: absolute;
+  top: 0;
+}
+
+.projects__btn {
+  opacity: 0;
+  color: #000;
+  transition: all .5s ease-in-out;
+}
+
+.projects__btn:hover {
+  color: #fff;
+}
+
+.projects footer {
+  transform: rotate(90deg)translate(-3rem, -5rem);
+}
+
+.contact {
+  height: 100vh;
+  background-color: #0000;
+  background-image: linear-gradient(to right, #2f4353e6, #2f43534d), url("witcher-contact.4fa6caa4.webp");
+  background-position: 0 0, center;
+  background-repeat: repeat, repeat;
+  background-size: cover;
+  background-attachment: scroll, scroll;
+  background-origin: padding-box, padding-box;
+  background-clip: border-box, border-box;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 35vh;
+  display: flex;
+  overflow: hidden;
+}
+
+.contact h2 {
+  margin-bottom: 2rem;
+  font-size: 3rem;
+}
+
+.contact__list {
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  padding: 10px;
+  font-size: 1.5rem;
+  display: grid;
+}
+
+.contact__list * {
+  padding-top: 10px;
+}
+
+.contact__list * :hover {
+  color: #5806a5;
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 10px;
+  font-weight: bold;
+  transform: scale(1.1);
+}
+
+.contact__list div {
+  margin-bottom: .2rem;
+}
+
+.contact .social-icons {
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 770px) {
+  .contact {
+    padding-top: 15vh;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .menu-btn {
+    visibility: hidden;
+  }
+
+  .nav {
+    visibility: visible;
+  }
+
+  .nav .menu-nav {
+    height: 100%;
+    text-align: right;
+    background: none;
+    display: block;
+    transform: translateY(0);
+  }
+
+  .nav .menu-nav__item {
+    padding-right: 1.5rem;
+    display: inline;
+  }
+
+  .nav .menu-nav__link, .about__bio {
+    font-size: 1.5rem;
+  }
+
+  .projects__bio-image {
+    height: 40vh;
+  }
+
+  .projects__items {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .projects .text-secondary {
+    font-size: 3rem;
+  }
+
+  .contact__list {
+    grid-template-columns: repeat(2, 1fr);
+    display: grid;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .projects__items, .contact__list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .projects__bio-image {
+    height: 50vh;
+  }
+}
+
+.certificates {
+  height: 100%;
+  width: 100%;
+  background-color: #0000;
+  background-image: linear-gradient(to right, #2f4353e6, #2f43534d), url("witcher-quests.af2ce1c5.jpeg");
+  background-position: 0 0, top;
+  background-repeat: repeat, repeat;
+  background-size: cover;
+  background-attachment: scroll, scroll;
+  background-origin: padding-box, padding-box;
+  background-clip: border-box, border-box;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 2rem;
+  display: flex;
+}
+
+.certificates__achive {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.achive_title {
+  background-color: #e1295dc5;
+  border-radius: 1rem;
+  margin-top: 5.5rem;
+  padding: 1.2rem 40rem;
+}
+
+.section_achive {
+  margin: .5rem;
+  padding: 2rem;
+}
+
+.section_achive h2 {
+  padding: 20px 0;
+}
+
+.section_achive img {
+  width: 25rem;
+  height: auto;
+}
+
+@media only screen and (max-width: 500px) {
+  .section_achive img {
+    height: 10rem;
+    height: auto;
+  }
+}
+
+body {
+  color: #fff;
+  height: 100vh;
+  text-shadow: 1px #a9a9a9;
+  background: #2f4353;
+  font-family: Merriweather, serif;
+  line-height: 1;
+}
+
+h1, h2, h3 {
+  font-weight: 400;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.text-secondary {
+  color: #2fff7f;
+}
+
+header {
+  z-index: 2;
+  width: 100%;
+  padding: 1rem;
+  position: fixed;
+}
+
+main {
+  height: 100%;
+  width: 100%;
+}
+
+main .social-icons {
+  text-shadow: none;
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
+}
+
+main .social-icons a {
+  padding: .4rem;
+  transition: all .5s ease-in-out;
+}
+
+main .social-icons a:hover {
+  color: #2fff7f;
+  transform: scale(1.3);
+}
+
+footer {
+  text-align: right;
+  color: #fff;
+  padding: 1rem;
+  font-size: 1rem;
+  position: fixed;
+  bottom: .4rem;
+  right: 1rem;
+}
+
+/*# sourceMappingURL=index.b0f903b5.css.map */

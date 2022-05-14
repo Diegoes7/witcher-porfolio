@@ -1,15 +1,16 @@
 {
-	"name": "portfolio",
+	"name": "hunter",
 	"version": "1.0.0",
-	"description": "",
+	"description": "showroom of my work",
+	"author": "Diego ElRey",
+	"license": "ISC",
 	"default": "index.html",
 	"scripts": {
 		"dev": "cp -R static dist && parcel index.html",
-		"build": "cp -R static dist && parcel build index.html --dist-dir ./dist"
+		"build": "parcel build index.html --dist-dir ./dist"
 	},
-	"author": "Diego ElRey",
-	"license": "ISC",
 	"dependencies": {
+		"@parcel/config-default": "^2.5.0",
 		"core-js": "^3.6.5",
 		"node-pre-gyp": "^0.17.0",
 		"regenerator-runtime": "^0.13.9"
@@ -19,7 +20,14 @@
 		"@babel/plugin-transform-runtime": "^7.17.10",
 		"@parcel/transformer-sass": "^2.5.0",
 		"parcel": "^2.5.0",
+		"parcel-reporter-multiple-static-file-copier": "^1.0.5",
 		"sass": "^1.51.0"
 	},
-	"browserslist": "last 4 version"
+	"browserslist": "last 4 version",
+	"multipleStaticFileCopier": [
+		{
+			"origin": "static",
+			"destination": "dist/public/"
+		}
+	]
 }

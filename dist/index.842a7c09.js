@@ -916,7 +916,7 @@ class CertificatesView extends _abstractViewJsDefault.default {
                     <h2>React Challenge  ✔</h2>
                     <div>
                         <img
-                            src="../../../react-certificate.jpg"
+                            src="./static/react-certificate.jpg"
                             alt="😈"
                         />
                     </div>
@@ -924,13 +924,13 @@ class CertificatesView extends _abstractViewJsDefault.default {
                 <section class="section_achive">
                     <h2>JavaScript Challenge ✔</h2>
                     <div>
-                        <img src="../../../UC-C2D9W0QB.jpg" alt="😈" />
+                        <img src="./UC-C2D9W0QB.jpg" alt="😈" />
                     </div>
                 </section>
                 <section class="section_achive">
                     <h2>Algorithms &amp Data Structures  ✔</h2>
                     <div>
-                        <img src="../../../master-Algo-DataStructure.jpg" alt="😈" />
+                        <img src="./master-Algo-DataStructure.jpg" alt="😈" />
                     </div>
                 </section>
         </div>

@@ -1,28 +1,32 @@
 {
-  "name": "portfolio",
-  "version": "1.0.0",
-  "description": "",
-  "default": "index.html",
-  "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
-  },
-  "author": "Diego ElRey",
-  "license": "ISC",
-  "dependencies": {
-    "core-js": "^3.6.5",
-    "frontend": "^2.0.0-alpha.4",
-    "img": "^3.0.3",
-    "node-pre-gyp": "^0.17.0",
-    "parcel-plugin-static-files-copy": "^2.6.0",
-    "regenerator-runtime": "^0.13.9"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.17.10",
-    "@babel/plugin-transform-runtime": "^7.17.10",
-    "@parcel/transformer-sass": "^2.5.0",
-    "parcel": "^2.5.0",
-    "sass": "^1.51.0"
-  },
-  "browserslist": "last 4 version"
+	"name": "portfolio",
+	"version": "1.0.0",
+	"description": "",
+	"default": "index.html",
+	"scripts": {
+		"dev": "parcel index.html",
+		"build": "parcel build index.html --dist-dir ./dist"
+	},
+	"author": "Diego ElRey",
+	"license": "ISC",
+	"dependencies": {
+		"core-js": "^3.6.5",
+		"img": "^3.0.3",
+		"node-pre-gyp": "^0.17.0",
+		"parcel-plugin-static-files-copy": "^2.6.0",
+		"regenerator-runtime": "^0.13.9"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.17.10",
+		"@babel/plugin-transform-runtime": "^7.17.10",
+		"@parcel/transformer-sass": "^2.5.0",
+		"parcel": "^2.5.0",
+		"sass": "^1.51.0"
+	},
+	"staticFiles": {
+		"staticPath": [
+			"./static"
+		]
+	},
+	"browserslist": "last 4 version"
 }

@@ -4,8 +4,8 @@
 	"description": "",
 	"default": "index.html",
 	"scripts": {
-		"dev": "cp -R static ./dist && parcel index.html",
-		"build": "cp -R static ./dist && parcel build index.html --dist-dir ./dist"
+		"dev": "cp -R static dist && parcel index.html",
+		"build": "cp -R static dist && parcel build index.html --dist-dir ./dist"
 	},
 	"author": "Diego ElRey",
 	"license": "ISC",
@@ -20,10 +20,6 @@
 		"@parcel/transformer-sass": "^2.5.0",
 		"parcel": "^2.5.0",
 		"sass": "^1.51.0"
-	},
-	"staticFiles": {
-		"staticPath": "static",
-		"watcherGlob": "**"
 	},
 	"browserslist": "last 4 version"
 }

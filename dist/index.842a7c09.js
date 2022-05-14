@@ -858,7 +858,7 @@ class ContactView extends _abstractViewJsDefault.default {
 				<div class="contact__list">
 					<div class="contact__email">
 						<i class="fas fa-envelope"></i> Ravens Sv.
-						<div class="text-secondary">diego.hunter.rv</div>
+						<div class="text-secondary">diego@hunter.rv</div>
 					</div>
 					<div class="contact__phone">
 						<i class="fas fa-mobile-alt"></i> Call incantation

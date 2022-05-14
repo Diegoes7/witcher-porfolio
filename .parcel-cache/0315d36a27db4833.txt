@@ -1,11 +1,11 @@
-9385
+9376
 80C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\parent-module132969290212520141 1
 97C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\internals\to-string.js121436361000000000 0
 62C:\Users\dimit\OneDrive\Desktop\development\portfolio\.babelrc132960439242089275 0
 62C:\Users\dimit\OneDrive\Desktop\development\portfolio\frontend132960390858151585 1
 89C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\picomatch\package.json132969277919146357 0
 101C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\type-fest\source\set-optional.d.ts132969290219234386 0
-66C:\Users\dimit\OneDrive\Desktop\development\portfolio\package.json132969897135208716 0
+66C:\Users\dimit\OneDrive\Desktop\development\portfolio\package.json132969917284989737 0
 108C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\number\max-safe-integer.js121436361000000000 0
 93C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\concat-map\README.markdown129985728760000000 0
 75C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\svgo\bin132969835346199571 1
@@ -24,7 +24,7 @@
 87C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\timsort\package.json132969277911388572 0
 88C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\msgpackr\iterators.js121436361000000000 0
 107C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\dom-serializer\lib\esm\foreignNames.d.ts132969835347097129 0
-64C:\Users\dimit\OneDrive\Desktop\development\portfolio\.gitignore132969794062659087 0
+64C:\Users\dimit\OneDrive\Desktop\development\portfolio\.gitignore132969897829003676 0
 107C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\css-tree\lib\syntax\node\TypeSelector.js132969835348493336 0
 71C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\glob132969835346728134 1
 93C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\yaml\browser\dist\index.js132969290214588480 0
@@ -33,7 +33,7 @@
 103C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\console-control-strings\package.json132969277935286676 0
 94C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\string\trim.js121436361000000000 0
 114C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\babel-plugin-polyfill-corejs2\esm\index.mjs.map121012626000000000 0
-58C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist132969895779025028 1
+58C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist132969921659716097 1
 121C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\reporter-cli\node_modules\ansi-styles\index.js132969290212013855 0
 115C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\lmdb\prebuilds\linux-arm64\node.abi83.glibc.node121436361000000000 0
 76C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\is-number132969835346369111 1
@@ -51,6 +51,23 @@
 100C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\features\es5.js132969835349640215 0
 96C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@swc\helpers\lib\_decorate.js132969290226514307 0
 66C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules132969896620526866 1
+85C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\yaml\types\omap.js132969290216271876 0
+82C:\Users\dimit\OneDrive\Desktop\development\portfolio\static\react-certificate.jpg132966657793240751 0
+93C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\node-addon-api\common.gypi121436361000000000 0
+99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\array\concat.js121436361000000000 0
+101C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\terser\node_modules\source-map\lib132969835347336477 1
+99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\proposals\promise-try.js121436361000000000 0
+84C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\resolve\.eslintrc121436361000000000 0
+73C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\braces132969835346658354 1
+114C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\lmdb\prebuilds\linux-x64\node.abi102.glibc.node121436361000000000 0
+145C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\b132969290227241526 1
+79C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\import-fresh132969835346528678 1
+103C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\readable-stream\lib\internal\streams132969277735513217 1
+101C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\object\entries.js121436361000000000 0
+105C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\number\from-string.js121436361000000000 0
+113C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@babel\generator\lib\generators\expressions.js121012626000000000 0
+95C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\needle\test\redirect_spec.js121436361000000000 0
+64C:\Users\dimit\OneDrive\Desktop\development\portfolio\_redirects132969927685789780 0
 104C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\typed-array\slice.js121436361000000000 0
 109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\features\transforms3d.js132969835352332883 0
 86C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\type-fest\base.d.ts132969290214348488 0
@@ -117,22 +134,6 @@
 98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\string\search.js121436361000000000 0
 109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\resolve\test\resolver\multirepo\lerna.json121436361000000000 0
 74C:\Users\dimit\OneDrive\Desktop\development\portfolio\static\project-6.jpg132817066463854171 0
-85C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\yaml\types\omap.js132969290216271876 0
-82C:\Users\dimit\OneDrive\Desktop\development\portfolio\static\react-certificate.jpg132966657793240751 0
-93C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\node-addon-api\common.gypi121436361000000000 0
-99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\array\concat.js121436361000000000 0
-101C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\terser\node_modules\source-map\lib132969835347336477 1
-99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\proposals\promise-try.js121436361000000000 0
-84C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\resolve\.eslintrc121436361000000000 0
-73C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\braces132969835346658354 1
-114C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\lmdb\prebuilds\linux-x64\node.abi102.glibc.node121436361000000000 0
-145C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\b132969290227241526 1
-103C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\readable-stream\lib\internal\streams132969277735513217 1
-79C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\import-fresh132969835346528678 1
-101C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\object\entries.js121436361000000000 0
-105C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\number\from-string.js121436361000000000 0
-113C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@babel\generator\lib\generators\expressions.js121012626000000000 0
-95C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\needle\test\redirect_spec.js121436361000000000 0
 127C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\htmlnano\docs\versioned_sidebars\version-2.0.0-sidebars.json132969835347745368 0
 148C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\package.json132969290236827160 0
 87C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\yaml\types\binary.js132969290212520141 0
@@ -205,13 +206,6 @@
 94C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\utility-types\dist\index.js121436361000000000 0
 78C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\ms\index.js132969288590332804 0
 78C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@jridgewell132969277836990067 1
-79C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\lmdb\deps.ts121436361000000000 0
-77C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\whatwg-url132969277904583255 1
-113C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\modules\es.typed-array.uint16-array.js121436361000000000 0
-98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\regions\BG.js132969835347974743 0
-109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\features\css-any-link.js132969835348483366 0
-85C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\convert-source-map132969288578999523 1
-99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\symbol\replace.js121436361000000000 0
 99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\modules\es.array.from.js121436361000000000 0
 80C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\code-point-at132969277935474822 1
 104C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\features\gamepad.js132969835349989259 0
@@ -379,6 +373,13 @@
 109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\parcel\node_modules\ansi-styles\index.d.ts132969290213476260 0
 90C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\console-control-strings132969277935393054 1
 94C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\string_decoder\package.json132969835346010089 0
+79C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\lmdb\deps.ts121436361000000000 0
+77C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\whatwg-url132969277904583255 1
+113C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\modules\es.typed-array.uint16-array.js121436361000000000 0
+98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\regions\BG.js132969835347974743 0
+109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\features\css-any-link.js132969835348483366 0
+85C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\convert-source-map132969288578999523 1
+99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\symbol\replace.js121436361000000000 0
 95C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\stable\math\atanh.js121436361000000000 0
 74C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\is-json132969290214348488 1
 99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\css-tree\lib\syntax\node\Hash.js132969835347914905 0
@@ -496,8 +497,6 @@
 109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\modules\es.object.lookup-getter.js121436361000000000 0
 112C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\lmdb\prebuilds\linux-x64\node.abi83.musl.node121436361000000000 0
 73C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\dotenv132969288595516886 1
-95C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\array\sort.js121436361000000000 0
-107C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\string\virtual\fontcolor.js121436361000000000 0
 95C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\yaml\dist\Schema-88e323a7.js132969290219490088 0
 120C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\packager-js\node_modules\globals\globals.json132969290238186963 0
 89C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\csso\lib\clean\Rule.js121436361000000000 0
@@ -1445,8 +1444,8 @@
 110C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\proposals\array-grouping-stage-3.js121436361000000000 0
 86C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\yallist\iterator.js132969835346179627 0
 103C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\svgo\plugins\cleanupNumericValues.js132969835347107102 0
-93C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\es\regexp\index.js121436361000000000 0
 123C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\markdown-ansi\node_modules\ansi-styles\readme.md132969288592295973 0
+93C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\es\regexp\index.js121436361000000000 0
 109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\terser\node_modules\source-map\lib\wasm.js132969835347346452 0
 97C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\math\iaddh.js121436361000000000 0
 104C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\terser\node_modules\commander\typings132969835346728134 1
@@ -1672,7 +1671,6 @@
 111C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\utility-types\dist\aliases-and-guards.js.map121436361000000000 0
 103C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\cosmiconfig\dist\ExplorerBase.js.map132969835347206841 0
 107C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\utility-types\dist\functional-helpers.js121436361000000000 0
-105C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\terser\lib\utils\first_in_statement.js132969835347545918 0
 111C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\utility-types\dist\functional-helpers.js.map121436361000000000 0
 96C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\utility-types\dist\index.d.ts121436361000000000 0
 87C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@babel\types\scripts132969277775165563 1
@@ -1939,6 +1937,7 @@
 83C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\terser\lib\utils132969835347635668 1
 113C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\parcel\node_modules\color-convert\CHANGELOG.md132969290212013855 0
 98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\runtime-browser-hmr\lib132969290228289706 1
+105C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\terser\lib\utils\first_in_statement.js132969835347545918 0
 111C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\terser\lib\compress\drop-side-effect-free.js132969835347486070 0
 109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@babel\core\lib\config\pattern-to-regex.js121012626000000000 0
 98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\svgo\lib\svgo\css-class-list.js132969835347406288 0
@@ -3318,7 +3317,6 @@
 94C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\math\imul.js121436361000000000 0
 112C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\node-pre-gyp\node_modules\semver\package.json132969288595435007 0
 110C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\iconv-lite\encodings\tables\big5-added.json130976329310000000 0
-99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\htmlnano\docs\docs\030-config.md132969835347875015 0
 109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\node-pre-gyp\node_modules\semver\range.bnf132969288591634228 0
 102C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\clear-immediate.js121436361000000000 0
 96C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\csso\lib\restructure\index.js121436361000000000 0
@@ -4191,6 +4189,7 @@
 122C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\transformer-babel\node_modules\semver\range.bnf132969290212439692 0
 116C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\core\test\fixtures\invalid-source-missing132969288606264752 1
 127C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md132969835347984714 0
+99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\htmlnano\docs\docs\030-config.md132969835347875015 0
 99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\web\url-search-params.js121436361000000000 0
 106C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\features\objectrtc.js132969835351265798 0
 100C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\htmlnano\docs\docs\050-modules.md132969835347944822 0
@@ -4441,7 +4440,6 @@
 85C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\domhandler\LICENSE132969835346010089 0
 95C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\number\range.js121436361000000000 0
 87C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\domhandler\readme.md132969835346787973 0
-65C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static132969895779194218 1
 103C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\internals\object-iterator.js121436361000000000 0
 92C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\domhandler\lib\index.d.ts132969835346887703 0
 100C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\instance\trim-end.js121436361000000000 0
@@ -4644,7 +4642,6 @@
 93C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\css-what\lib\es\types.d.ts132969835347426239 0
 91C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\css-what\lib\es\types.js132969835346987431 0
 97C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\date\index.js121436361000000000 0
-79C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static\project-4.jpg132969896687720248 0
 106C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\modules\es.reflect.construct.js121436361000000000 0
 103C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\css-what\lib\commonjs\parse.d.ts.map132969835347107102 0
 99C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\css-what\lib\commonjs\types.d.ts132969835347416262 0
@@ -6035,6 +6032,8 @@
 93C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\string\sup.js121436361000000000 0
 104C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\string\virtual\anchor.js121436361000000000 0
 100C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\string\virtual\at.js121436361000000000 0
+95C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\array\sort.js121436361000000000 0
+107C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\string\virtual\fontcolor.js121436361000000000 0
 106C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\string\virtual\includes.js121436361000000000 0
 105C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\full\string\virtual\italics.js121436361000000000 0
 98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\regions\MM.js132969835351006500 0
@@ -6760,7 +6759,7 @@
 106C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\async-iterator\some.js121436361000000000 0
 106C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\async-iterator\take.js121436361000000000 0
 94C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\url\index.js121436361000000000 0
-86C:\Users\dimit\OneDrive\Desktop\development\portfolio\frontend\js\views\ContactView.js132961160303224243 0
+86C:\Users\dimit\OneDrive\Desktop\development\portfolio\frontend\js\views\ContactView.js132969917712076096 0
 110C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\async-iterator\to-array.js121436361000000000 0
 105C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\array-buffer\index.js121436361000000000 0
 107C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\features\array-buffer\is-view.js121436361000000000 0
@@ -7270,7 +7269,6 @@
 98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\object\create.js121436361000000000 0
 105C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\object\define-getter.js121436361000000000 0
 109C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\object\define-properties.js121436361000000000 0
-79C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static\project-3.jpg132969896687690637 0
 107C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\object\define-property.js121436361000000000 0
 98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\object\freeze.js121436361000000000 0
 104C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\core-js\actual\object\from-entries.js121436361000000000 0
@@ -7625,7 +7623,6 @@
 98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\regions\SE.js132969835351864168 0
 108C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\features\css-nesting.js132969835348962070 0
 168C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm132969290235315885 1
-95C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static\master-Algo-DataStructure.jpg132969896687700705 0
 98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\regions\SK.js132969835351943944 0
 121C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\@parcel\transformer-html\node_modules\semver\range.bnf132969290212439692 0
 98C:\Users\dimit\OneDrive\Desktop\development\portfolio\node_modules\caniuse-lite\data\regions\SL.js132969835351953920 0
@@ -9366,8 +9363,8 @@
 83C:\Users\dimit\OneDrive\Desktop\development\portfolio\frontend\img\witcher-wolf.jpg132966836944243091 0
 76C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\index.0acf94c5.js132969893112842345 0
 80C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\index.0acf94c5.js.map132969893112842345 0
-76C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\index.842a7c09.js132969894922412343 0
-80C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\index.842a7c09.js.map132969894922431960 0
+76C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\index.842a7c09.js132969917713701746 0
+80C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\index.842a7c09.js.map132969917713731677 0
 77C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\index.b0f903b5.css132969893112313756 0
 81C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\index.b0f903b5.css.map132969893112313756 0
 72C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\project-2.jpg132969893047988043 0
@@ -9378,9 +9375,3 @@
 87C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\witcher-quests.af2ce1c5.jpeg132969893111954720 0
 82C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\witcher-v3.03ca15bc.jpg132969893112912289 0
 84C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\witcher-wolf.f865f34c.jpg132969893112523200 0
-79C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static\project-1.jpg132969896687620496 0
-79C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static\project-2.jpg132969896687630469 0
-79C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static\project-5.jpg132969896687660408 0
-79C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static\project-6.jpg132969896687640809 0
-87C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static\react-certificate.jpg132969896687710339 0
-81C:\Users\dimit\OneDrive\Desktop\development\portfolio\dist\static\UC-C2D9W0QB.jpg132969896687680671 0

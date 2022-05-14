@@ -757,7 +757,7 @@ class ProjectsView extends _abstractViewJsDefault.default {
 				<div class="projects__items">
 					<div class="projects__item">
                         <h2>Lord Cloths</h2>
-						<img src="../../../project-1.jpg" />
+						<img src="./project-1.jpg" />
 						<div class="projects__btns">
 							<a
 								href="https://thriving-capybara-92904c.netlify.app"
@@ -775,7 +775,7 @@ class ProjectsView extends _abstractViewJsDefault.default {
 					</div>
 					<div class="projects__item">
                       <h2>Recipes App</h2>
-						<img src="../../../project-2.jpg" alt="My Project" />
+						<img src="./project-2.jpg" alt="My Project" />
 						<div class="projects__btns">
 							<a href="https://recipe-power-up.netlify.app" class="projects__btn" target="_blank">
 								<i class="fas fa-eye"></i> Preview
@@ -787,7 +787,7 @@ class ProjectsView extends _abstractViewJsDefault.default {
 					</div>
 					<div class="projects__item">
                       <h2>Beast Collection</h2>
-						<img src="../../../project-3.jpg" target="_blank" alt="My Project" />
+						<img src="./project-3.jpg" target="_blank" alt="My Project" />
 						<div class="projects__btns">
 							<a href="https://resilient-basbousa-65e249.netlify.app" class="projects__btn" target="_blank">
 								<i class="fas fa-eye"></i> Preview
@@ -799,7 +799,7 @@ class ProjectsView extends _abstractViewJsDefault.default {
 					</div>
 					<div class="projects__item">
                       <h2>Rolling Dices</h2>
-						<img src="../../../project-4.jpg" alt="My Project" />
+						<img src="./project-4.jpg" alt="My Project" />
 						<div class="projects__btns">
 							<a href="https://objective-morse-15d0b2.netlify.app" class="projects__btn" target="_blank">
 								<i class="fas fa-eye"></i> Preview
@@ -811,7 +811,7 @@ class ProjectsView extends _abstractViewJsDefault.default {
 					</div>
 					<div class="projects__item">
                       <h2>Title</h2>
-						<img src="../../../project-5.jpg" alt="My Project" />
+						<img src="./project-5.jpg" alt="My Project" />
 						<div class="projects__btns">
 							<a href="#!" class="projects__btn">
 								<i class="fas fa-eye"></i> Preview
@@ -823,7 +823,7 @@ class ProjectsView extends _abstractViewJsDefault.default {
 					</div>
 					<div class="projects__item">
                       <h2>Title</h2>
-						<img src="../../../project-6.jpg" alt="My Project" />
+						<img src="./project-6.jpg" alt="My Project" />
 						<div class="projects__btns">
 							<a href="#!" class="projects__btn">
 								<i class="fas fa-eye"></i> Preview
@@ -916,7 +916,7 @@ class CertificatesView extends _abstractViewJsDefault.default {
                     <h2>React Challenge  ✔</h2>
                     <div>
                         <img
-                            src="./static/react-certificate.jpg"
+                            src="./react-certificate.jpg"
                             alt="😈"
                         />
                     </div>

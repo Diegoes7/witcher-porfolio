@@ -16,7 +16,7 @@ export default class CertificatesView extends AbstractView {
                     <h2>React Challenge  ✔</h2>
                     <div>
                         <img
-                            src="./static/react-certificate.jpg"
+                            src="./react-certificate.jpg"
                             alt="😈"
                         />
                     </div>

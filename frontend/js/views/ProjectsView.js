@@ -18,7 +18,7 @@ export default class ProjectsView extends AbstractView {
 				<div class="projects__items">
 					<div class="projects__item">
                         <h2>Lord Cloths</h2>
-						<img src="../../../project-1.jpg" />
+						<img src="./project-1.jpg" />
 						<div class="projects__btns">
 							<a
 								href="https://thriving-capybara-92904c.netlify.app"
@@ -36,7 +36,7 @@ export default class ProjectsView extends AbstractView {
 					</div>
 					<div class="projects__item">
                       <h2>Recipes App</h2>
-						<img src="../../../project-2.jpg" alt="My Project" />
+						<img src="./project-2.jpg" alt="My Project" />
 						<div class="projects__btns">
 							<a href="https://recipe-power-up.netlify.app" class="projects__btn" target="_blank">
 								<i class="fas fa-eye"></i> Preview
@@ -48,7 +48,7 @@ export default class ProjectsView extends AbstractView {
 					</div>
 					<div class="projects__item">
                       <h2>Beast Collection</h2>
-						<img src="../../../project-3.jpg" target="_blank" alt="My Project" />
+						<img src="./project-3.jpg" target="_blank" alt="My Project" />
 						<div class="projects__btns">
 							<a href="https://resilient-basbousa-65e249.netlify.app" class="projects__btn" target="_blank">
 								<i class="fas fa-eye"></i> Preview
@@ -60,7 +60,7 @@ export default class ProjectsView extends AbstractView {
 					</div>
 					<div class="projects__item">
                       <h2>Rolling Dices</h2>
-						<img src="../../../project-4.jpg" alt="My Project" />
+						<img src="./project-4.jpg" alt="My Project" />
 						<div class="projects__btns">
 							<a href="https://objective-morse-15d0b2.netlify.app" class="projects__btn" target="_blank">
 								<i class="fas fa-eye"></i> Preview
@@ -72,7 +72,7 @@ export default class ProjectsView extends AbstractView {
 					</div>
 					<div class="projects__item">
                       <h2>Title</h2>
-						<img src="../../../project-5.jpg" alt="My Project" />
+						<img src="./project-5.jpg" alt="My Project" />
 						<div class="projects__btns">
 							<a href="#!" class="projects__btn">
 								<i class="fas fa-eye"></i> Preview
@@ -84,7 +84,7 @@ export default class ProjectsView extends AbstractView {
 					</div>
 					<div class="projects__item">
                       <h2>Title</h2>
-						<img src="../../../project-6.jpg" alt="My Project" />
+						<img src="./project-6.jpg" alt="My Project" />
 						<div class="projects__btns">
 							<a href="#!" class="projects__btn">
 								<i class="fas fa-eye"></i> Preview
